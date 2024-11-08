@@ -73,6 +73,10 @@ img {
     font-size: large;
 }
 
+li{
+    table-layout: auto;
+}
+
 footer {
     background-color: #333;
     color: #fff;
